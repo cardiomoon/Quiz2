@@ -1,0 +1,12 @@
+base
+ggplot2
+ggthemes
+googleVis
+knitr
+lattice
+latticeExtra
+openintro
+plyr
+RColorBrewer
+slidify
+xtable
