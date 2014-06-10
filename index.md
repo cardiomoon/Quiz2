@@ -1,4 +1,4 @@
-
+---
 title: 재현 가능한 연구 
 subtitle: Concepts and Ideas
 author: Keon-Woong Moon
@@ -10,7 +10,7 @@ github:
 url:
   lib   : ../../libraries
   assets: ../assets
-copy_libraries: false
+copy_libraries: true
 
 ---
 
